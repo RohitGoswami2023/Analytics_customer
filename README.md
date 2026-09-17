@@ -231,6 +231,6 @@ The Power BI dashboard (`Dashboard/Ecommerce_Analytics_Dashboard.pbix`) includes
 > I built an end-to-end e-commerce analytics platform using SQL Server and Power BI.
 > I ingested messy Kaggle data, cleaned it using SQL, built KPIs like revenue, AOV, and LTV, and implemented RFM segmentation and cohort analysis.
 >
-> I then designed a 4-page interactive Power BI dashboard with custom DAX measures, covering sales trends, customer segmentation, retention, and product performance.
+> I then designed a 6-page interactive Power BI dashboard with custom DAX measures, covering sales trends, customer segmentation, retention, and product performance.
 >
 > This project mirrors a real analytics pipeline — from raw data to actionable business insights.    
