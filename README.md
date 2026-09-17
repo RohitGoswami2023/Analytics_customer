@@ -196,7 +196,7 @@ It mirrors how analytics pipelines work in real companies, from raw data to busi
 │   ├── olist_sellers_dataset.csv
 │   └── product_category_name_translation.csv
 │
-├── Insights/
+├── insight/
 │   └── business_insights.md
 │
 └── sql/
